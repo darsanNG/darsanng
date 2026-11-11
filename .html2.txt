@@ -1,0 +1,29 @@
+<html>
+<body>
+<h1>simple html form</h1>
+<form>
+<label>username :</label>
+<input type ="text" name="username">
+<br><br>
+<lable>password :</lable>
+<input type ="password" name="password">
+<br><br>
+<lable>contact :</lable>
+<input type ="number" name="number">
+<br><br>
+<lable>gender:</lable>
+<input type ="radio" name="gender" value="male">
+male
+<input tpe ="radio"  name="gender" value="female">
+female
+<br><br>
+<lable>skill :</lable>
+<input type ="checkbox" name="skill" value="html">
+HTML
+<input type ="checkbox" name="skill" value="css">
+CSS
+<br><br>
+<input type ="submit" name="submit">
+</form>
+</body>
+</html>

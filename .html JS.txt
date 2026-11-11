@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Addition</title>
+</head>
+<body>
+
+    <h2>Addition of Two Numbers</h2>
+
+    <script>
+        var a = 10.52000000;
+        var b = 20;
+
+        let sum = a + b;
+
+        document.write("First Number: " + a + "<br>");
+        document.write("Second Number: " + b + "<br>");
+        document.write("Sum = " + sum);
+    </script>
+
+</body>
+</html>
+      
